@@ -1,0 +1,58 @@
+SIDDHESH WAGHMARE
+Java Fullstack Developer
+Pune, Maharashtra | +91 9730774380 | siddheshwaghmare30@gmail.com
+LinkedIn: siddhesh-waghmare | GitHub: SiddheshWaghmare
+
+SUMMARY
+Experienced Java Fullstack Developer with 1.5+ years of expertise in backend development
+using Java, Spring Boot, and Microservices, as well as frontend development with Spring MVC
+and Angular. Skilled in creating and optimizing RESTful APIs to improve data exchange and
+client satisfaction. Enhanced system performance with Hibernate using MySQL and PostgreSQL.
+Proficient in Postman REST API testing and actively involved in Agile methodologies. Strong
+foundation in AWS and Angular.
+
+TECHNICAL SKILLS
+Core Java | Java 8+ | Spring Boot | Spring Core | Spring MVC | Microservices | RESTful
+Webservices | Hibernate | Spring Data JPA | SQL | Angular | MySQL | PostgreSQL | Kafka |
+AWS (EC2, S3, RDS) | Jenkins | GitHub Actions | CI/CD | Git | Maven | Gradle | JUnit5 |
+Mockito | Postman | Swagger | TypeScript | HTML5 | CSS3 | SonarQube | AI-Assisted
+Development | GitHub Copilot | API Integration
+
+PROFESSIONAL EXPERIENCE
+Software Developer — Intent Software Solutions
+Jan 2025 – Present | Pune, Maharashtra
+- Developed and maintained backend services using Java 21, Spring Boot 3.4, Hibernate 6.6,
+  and Spring Data JPA for enterprise applications.
+- Designed and implemented RESTful APIs to support business workflows, system integrations,
+  and multi-stage approval processes.
+- Worked with PostgreSQL 16 for database design, query optimization, schema management, and
+  efficient CRUD operations.
+- Implemented validation, exception handling, and business logic to ensure application
+  reliability and data integrity.
+- Documented REST APIs using Swagger/OpenAPI to support integration and testing activities.
+- Wrote and executed unit tests using JUnit 5 and Mockito to improve code quality.
+- Performed API testing and debugging using Postman and resolved defects.
+- Contributed to feature development, bug fixes, and enhancements in an Agile Scrum environment.
+
+PROJECTS
+FinLogic — Loan Management Platform
+- Built backend services for loan onboarding, approval workflows, disbursement, repayment
+  scheduling, and contract lifecycle management.
+- Designed REST APIs for customer operations, loan validation, and multi-stage approval
+  workflow management.
+- Implemented business logic and transactional operations ensuring ACID compliance.
+- Added validation and exception handling; documented all APIs using Swagger.
+- Performed end-to-end API testing using Postman.
+
+SupplySphere — Inventory & Supply Chain Management
+- Developed backend services for inventory tracking, stock allocation, warehouse transfers,
+  and order management.
+- Built RESTful APIs for goods receiving, bin allocation, picking, packing, dispatch, and
+  automated stock updates.
+- Implemented transactional flows ensuring inventory accuracy and exception handling.
+- Wrote unit tests using JUnit 5 and Mockito; performed end-to-end API testing using Postman.
+- Reduced manual intervention via automated inventory reconciliation workflows.
+
+EDUCATION
+B.Tech in Computer Science & Engineering
+N. K. Orchid College of Engineering & Technology, Solapur, Maharashtra — 2025
