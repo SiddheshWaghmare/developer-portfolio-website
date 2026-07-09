@@ -1,5 +1,5 @@
-import { basePath } from '@/lib/base-path'
 'use client'
+import { basePath } from '@/lib/base-path'
 
 import Image from 'next/image'
 import { useEffect, useRef, useState } from 'react'
