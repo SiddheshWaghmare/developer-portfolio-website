@@ -1,11 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  output: "export",
+
   images: {
     unoptimized: true,
   },
-}
 
-export default nextConfig
+  basePath:
+    process.env.NODE_ENV === "production"
+      ? "/developer-portfolio-website"
+      : "",
+};
+
+export default nextConfig;
