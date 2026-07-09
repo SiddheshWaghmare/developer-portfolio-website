@@ -1,3 +1,4 @@
+import { basePath } from './base-path'
 export const CONTACT = {
   name: 'Siddhesh Waghmare',
   phone: '9730774380',
@@ -7,7 +8,7 @@ export const CONTACT = {
   github: 'SiddheshWaghmare',
   githubUrl: 'https://github.com/SiddheshWaghmare',
   location: 'Pune, Maharashtra',
-  resumeUrl: '/JavaFullstackResume-SiddheshWaghmare.pdf',
+  resumeUrl: `${basePath}/JavaFullstackResume-SiddheshWaghmare.pdf`,
 }
 
 export const NAV_LINKS = [
