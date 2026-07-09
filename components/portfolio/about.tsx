@@ -1,3 +1,4 @@
+import { basePath } from '@/lib/base-path'
 'use client'
 
 import Image from 'next/image'
@@ -65,7 +66,7 @@ export function About() {
           <div className="glow-hover relative rounded-3xl border border-border bg-card p-2">
             <div className="absolute -inset-1 -z-10 rounded-3xl bg-primary/20 blur-2xl" />
             <Image
-              src="/profile.png"
+              src={`${basePath}/profile.png`}
               alt="Portrait of Siddhesh Waghmare"
               width={480}
               height={480}
