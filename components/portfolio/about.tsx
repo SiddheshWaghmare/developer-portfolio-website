@@ -80,7 +80,7 @@ export function About() {
           <p className="text-lg leading-relaxed text-pretty text-muted-foreground">
             Java Fullstack Developer with{' '}
             <span className="font-semibold text-foreground">
-              1.5+ years of experience
+              1.8+ years of experience
             </span>{' '}
             building backend systems using Java, Spring Boot, and Microservices,
             with frontend exposure via Angular. Skilled in designing RESTful APIs
