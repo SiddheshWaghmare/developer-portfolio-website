@@ -28,7 +28,7 @@ export const HERO_TITLES = [
 ]
 
 export const STATS = [
-  { label: 'Years Experience', value: 1.5, suffix: '+', decimals: 1 },
+  { label: 'Years Experience', value: 1.8, suffix: '+', decimals: 1 },
   { label: 'Projects', value: 2, suffix: '+', decimals: 0 },
   { label: 'APIs Built', value: 40, suffix: '+', decimals: 0 },
 ]
@@ -96,7 +96,7 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
       { name: 'AWS EC2', level: 70 },
       { name: 'AWS S3', level: 72 },
       { name: 'AWS RDS', level: 70 },
-      { name: 'Kafka', level: 65 },
+      { name: 'Kafka', level: 70 },
     ],
   },
   {
