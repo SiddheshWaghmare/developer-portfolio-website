@@ -113,7 +113,7 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
 export const EXPERIENCE = [
   {
     role: 'Software Developer',
-    company: 'Intent Software Solutions',
+    company: 'Globeminds Technologies',
     period: 'Jan 2025 – Present',
     location: 'Pune, Maharashtra',
     points: [
