@@ -19,7 +19,7 @@ Mockito | Postman | Swagger | TypeScript | HTML5 | CSS3 | SonarQube | AI-Assiste
 Development | GitHub Copilot | API Integration
 
 PROFESSIONAL EXPERIENCE
-Software Developer — Intent Software Solutions
+Software Developer — Globeminds Technologies
 Jan 2025 – Present | Pune, Maharashtra
 - Developed and maintained backend services using Java 21, Spring Boot 3.4, Hibernate 6.6,
   and Spring Data JPA for enterprise applications.
