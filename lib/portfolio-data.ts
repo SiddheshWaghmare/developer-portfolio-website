@@ -28,7 +28,7 @@ export const HERO_TITLES = [
 ]
 
 export const STATS = [
-  { label: 'Years Experience', value: 1.8, suffix: '+', decimals: 1 },
+  { label: 'Years Experience', value: 2.1, suffix: '+', decimals: 1 },
   { label: 'Projects', value: 2, suffix: '+', decimals: 0 },
   { label: 'APIs Built', value: 40, suffix: '+', decimals: 0 },
 ]
